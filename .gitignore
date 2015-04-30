@@ -1,6 +1,5 @@
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
-*.o
-*.a
+*.o *.a
 *.so
 
 # Folders
@@ -22,3 +21,5 @@ _testmain.go
 *.exe
 *.test
 *.prof
+*.swp
+.DS_Store
